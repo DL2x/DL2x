@@ -1,3 +1,4 @@
+```JSON
 {
   "name": "DL2x"
 
@@ -26,3 +27,4 @@
 
   "quote":"A computer is like air conditioning – it becomes useless when you open Windows. - Linus Torvalds"
 }
+```
